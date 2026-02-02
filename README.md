@@ -1127,6 +1127,6 @@
         }, { threshold: 0.5 });
         counters.forEach(c => counterObserver.observe(c));
     </script>
-
+<p>© 2026 Lior_Ai כל הזכויות שמורות</p>
 </body>
 </html>
